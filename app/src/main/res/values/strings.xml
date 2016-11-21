@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Space Mars</string>
+    <string name="loading_datas">Chargement des données...</string>
+</resources>
